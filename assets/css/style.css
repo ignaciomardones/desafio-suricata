@@ -1,0 +1,19 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.fondomenu {
+    background-color: #E83E8C;
+}
+
+.footer1 {
+    background-color: #17A2B8;
+}
+.footer2 {
+    background-color: #E83E8C;
+}
+
+h1 {
+    color: #707070;
+    font-weight: 700;
+}
